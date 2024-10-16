@@ -1,4 +1,4 @@
-# SelfExplain1
+# SelfExplain
 - This is course project on implementation of the paper [1], in CS772: Deep Learning with Natural Language Processing in IIT Bombay.
 - For various text classification tasks (sentiment analysis, emotion analysis), the model gives prediction along with words or phrases that supports its predicted output.
 - Here, interpretability is evaluated in models - BERT, XLMR, Roberta with datasets - GoEmotion, Banking... with different fine-tuning setting like LoRa, and quantized version.
@@ -7,6 +7,7 @@
 - The interpretability layer is not ad hoc (add on to the output layer) but an inbuilt with the training architecture, and hence is more efficient.
 
 
+## Citations
 ```bibtex
 @article{rajagopal2021selfexplain,
   title={Selfexplain: A self-explaining architecture for neural text classifiers},
