@@ -1,5 +1,5 @@
 # SelfExplain1
-- Taking reference from Rajagopal et al, interpretability and analysis has been performed on the text classification tasks in the paper "SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers" accepted in EMNLP 2021.
+- Taking reference from Rajagopal et al, interpretability and analysis has been performed on the text classification tasks in the paper "SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers".
 - For various text classification tasks (sentiment analysis, emotion analysis), the model gives prediction along with words or phrases that supports its predicted output.
 - Here, interpretability is evaluated in models - BERT, XLMR, Roberta with datasets - GoEmotion, Banking... with different fine-tuning setting like LoRa, and quantized version.
 - The observations made during the implementation, the interpretability of the models does not affected much with LoRA and quantized fine-tuning. Given a text, the model is giving it's classification result, along with the phrases helping the model for the classification.
