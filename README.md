@@ -7,6 +7,7 @@
 - The interpretability layer is not ad hoc (add on to the output layer) but an inbuilt with the training architecture, and hence is more efficient.
 
 
+```bibtex
 @article{rajagopal2021selfexplain,
   title={Selfexplain: A self-explaining architecture for neural text classifiers},
   author={Rajagopal, Dheeraj and Balachandran, Vidhisha and Hovy, Eduard and Tsvetkov, Yulia},
