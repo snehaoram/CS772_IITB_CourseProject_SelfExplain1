@@ -8,4 +8,4 @@
 
 
 # Reference
-1. 
+1. Rajagopal, D., Balachandran, V., Hovy, E., & Tsvetkov, Y. (2021). Selfexplain: A self-explaining architecture for neural text classifiers. arXiv preprint arXiv:2103.12279.
