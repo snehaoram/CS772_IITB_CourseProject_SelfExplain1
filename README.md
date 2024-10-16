@@ -1,5 +1,5 @@
 # SelfExplain
-- This is course project on implementation of the paper [1], in CS772: Deep Learning with Natural Language Processing in IIT Bombay.
+- This is course project on implementation of the paper, in CS772: Deep Learning with Natural Language Processing in IIT Bombay.
 - For various text classification tasks (sentiment analysis, emotion analysis), the model gives prediction along with words or phrases that supports its predicted output.
 - Here, interpretability is evaluated in models - BERT, XLMR, Roberta with datasets - GoEmotion, Banking... with different fine-tuning setting like LoRa, and quantized version.
 - The observations made during the implementation, the interpretability of the models does not affected much with LoRA and quantized fine-tuning. Given a text, the model is giving it's classification result, along with the phrases helping the model for the classification.
@@ -8,4 +8,4 @@
 
 
 # Reference
-1. (https://aclanthology.org/2021.emnlp-main.64.pdf)
+1. 
